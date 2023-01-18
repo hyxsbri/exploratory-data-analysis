@@ -4,5 +4,5 @@
 ## 다양한 그래프 및 시각화 라이브러리 적용,
 ## 데이터에 내재된 패턴 파악 능력의 향상을 목적으로 본 작업을 수행했습니다.
 ##
-### #eda #visualization #plotly #matplotlib #seaborn #chart-studio
+### #eda #visualization #plotly #matplotlib #seaborn #chart_studio
 ##
