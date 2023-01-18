@@ -4,5 +4,5 @@
 ## 다양한 시각화 라이브러리 적용 및 데이터에 내재된 패턴 파악 능력의 향상을 목적으로,
 ## 주피터 노트북 환경을 통해 본 작업을 수행했습니다.
 ##
-### #eda #visualization #matplotlib #seaborn #jupyter-notebook
+### #eda #visualization #plotly #matplotlib #seaborn #jupyter-notebook
 ##
